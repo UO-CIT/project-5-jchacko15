@@ -15,7 +15,6 @@ Repo Start-State:
 
 <head>
   <meta charset="UTF-8" />
-  <title>Doubles Debug</title>
 </head>
 <body>
 <header>
