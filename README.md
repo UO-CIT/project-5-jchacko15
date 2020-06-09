@@ -1,6 +1,6 @@
 # Project 5 Repo
 
-<a href="jchacko.github.io"><b>Github Profile Page</b></a>
+<a href="jchacko15.github.io">Github Profile Page</a>
 
 <!DOCTYPE html>
 <html lang="en">
