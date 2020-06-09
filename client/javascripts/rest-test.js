@@ -1,4 +1,4 @@
-“C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe” –dbpath=c:\data\db
+
 //jshint esversion: 6
 //Connects to a MongoDB server
 //Endpoints for Get, Post, and Delete requests
